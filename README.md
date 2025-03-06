@@ -1,6 +1,5 @@
 # 💫 About Me:
 <h1>Hi 👋, I'm Kishan</h1>
-- 🔭 I’m currently working on Hack-O-Fiesta project<br>
 - 🌱 I’m currently learning Kotlin<br>
 - 😄 Pronouns: Him/He
 
