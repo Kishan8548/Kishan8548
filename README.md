@@ -1,9 +1,9 @@
 <h2>Hi, I'm Kishan 👋</h2>
 
 <p>
-I'm an <b>Android Developer 📱 + Backend Enthusiast ⚙️</b><br>
+I'm an <b>Android Developer 📱</b><br>
 I love building scalable apps, clean UIs, and real-world systems 🚀<br>
-Exploring <b>Kotlin, System Design, and Backend Development</b>.
+Exploring <b>Kotlin, System Design, and Android Development</b>.
 </p>
 
 <hr>
