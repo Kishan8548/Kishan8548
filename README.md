@@ -1,3 +1,17 @@
+<div align="center">
+  <a href="https://github.com/kawarimidoll/typograssy">
+    <img 
+      alt="typograssy" 
+      src="https://typograssy.deno.dev/api?text=Hi%2C%20this%20is%20Kishan.%20Welcome%20to%20my%20GitHub!&l0=none&l1=82d9d0&l2=027353&l3=038c4c&l4=01402e&bg=none&frame=none&speed=100"
+  </a>
+  <p>
+    <img 
+      draggable="false" 
+      style="width:150px;height:28px;" 
+      src="https://komarev.com/ghpvc/?username=Kishan8548&style=for-the-badge&color=1C8C8C">
+  </p>
+</div>
+
 <h2>Hi, I'm Kishan 👋</h2>
 
 <p>
