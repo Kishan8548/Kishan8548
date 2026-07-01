@@ -18,4 +18,7 @@ Exploring <b>Kotlin, System Design, and Android Development</b>.
 
 <hr>
 
+###
+[![An image of @kishan8548's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kishan8548)](https://holopin.io/@kishan8548)
+
 <p><i>⚡ Always building apps, solving problems — turning ideas into real products.</i></p>
