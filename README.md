@@ -36,7 +36,7 @@ const kishanGarhwal = {
     "Android Development",
     "Full-Stack Web Development",
     "Artificial Intelligence & Machine Learning",
-    "Open Source"
+    "Open Source Contributions"
   ],
 
   askMeAbout    : [
@@ -54,8 +54,7 @@ const kishanGarhwal = {
 
   funFact       : "I love turning ideas into apps and algorithms into efficient solutions 🚀",
 
-  email         : "kishangarhwal@example.com",
-  portfolio     : "Coming Soon 🚧",
+  email         : "kishangarhwal@gmail.com",
 };
 ```
 
