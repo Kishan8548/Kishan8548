@@ -55,6 +55,7 @@ const kishanGarhwal = {
   funFact       : "I love turning ideas into apps and algorithms into efficient solutions 🚀",
 
   email         : "kishangarhwal@gmail.com",
+  portfolio      : "https://portfolio-ten-pied-40.vercel.app/",
 };
 ```
 
